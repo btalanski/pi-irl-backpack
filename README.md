@@ -1,6 +1,12 @@
 # Raspberry Pi based IRL Backpack / Mochila IRL usando Raspberry Pi
 
-Read in English | Ler em Português
+## Table of contents / Índice
+  * [Raspberry pi based IRL Backpack](#raspberry-pi-based-irl-backpack)
+    + [About](#about)
+    + [Components list (WIP)](#components-list--wip-)
+  * [Mochila IRL usando Raspberry Pi](#mochila-irl-usando-raspberry-pi)
+    + [Sobre](#sobre)
+    + [Lista de componentes](#lista-de-componentes)
 
 ## Raspberry pi based IRL Backpack
 
